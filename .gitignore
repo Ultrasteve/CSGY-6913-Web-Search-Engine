@@ -1,0 +1,4 @@
+# ignore the log file
+*.txt
+# ignore test.py
+test.py
