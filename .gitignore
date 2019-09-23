@@ -2,3 +2,5 @@
 *.txt
 # ignore test.py
 test.py
+# ignore pycache
+hw1_crawler/__pycache__
